@@ -1,9 +1,11 @@
 {
-  "cities": [
-    "Singapore",
-    "Malaysia",
-    "Indonesia",
-    "China",
-    "Japan"
-  ]
+  "cities": {
+    "data": [
+      "Singapore",
+      "Malaysia",
+      "Indonesia",
+      "China",
+      "Japan"
+    ]
+  }
 }
