@@ -1,11 +1,14 @@
 {
   "cities": {
     "data": [
-      "Singapore",
-      "Malaysia",
-      "Indonesia",
-      "China",
-      "Japan"
+      "Singapore, Singapore",
+      "Kuala Lumpur, Malaysia",
+      "Jakarta, Indonesia",
+      "Beijing, China",
+      "Wuhan, China",
+      "Guangzhou, China",
+      "Shanghai, China",
+      "Tokyo, Japan"
     ]
   }
 }
